@@ -43,7 +43,7 @@ End-to-end ML pipeline from data collection to model evaluation.
 Full-stack Flask application with Google Gemini integration for natural language task parsing.  
 Features OAuth authentication, intelligent scheduling, and a responsive dark-mode UI.
 
-**RAG Knowledge Assistant** — *In Progress*  
+**RAG Knowledge Assistant** — *Coming Soon*  
 Document-grounded QA system using embeddings and vector search.  
 Focus on retrieval quality, hallucination reduction, and evaluation metrics.
 
@@ -118,22 +118,13 @@ Focus on retrieval quality, hallucination reduction, and evaluation metrics.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashkumarsenthil&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumarsenthil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumarsenthil&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Connect
 
 <p>
   <a href="https://linkedin.com/in/akash-kumar-1b3036162"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:write2akash.k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>Open to opportunities in Data Engineering, ML Engineering, and AI Systems</i>
 </p>
