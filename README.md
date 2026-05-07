@@ -1,6 +1,6 @@
 # Akash Kumar
 
-**Senior Data Engineer** | AI Systems & Large-Scale Pipelines  
+**Senior Data Engineer @ Kaiser Permanente** | AI Systems & Large-Scale Pipelines  
 San Jose, CA
 
 Building production-grade data infrastructure and AI systems that scale.  
